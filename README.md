@@ -1,7 +1,7 @@
 
 #  Competitive Programming & Data Structures Solutions
 
-Welcome to the **Competitive Programming & Data Structures Solutions** repository! This repository contains 300+ clean, well-documented Python solutions for LeetCode and fundamental Data Structures & Algorithms (DSA) problems.
+Welcome to the **Competitive Programming & Data Structures Solutions** repository! This repository contains 200+ clean, well-documented Python solutions for LeetCode and fundamental Data Structures & Algorithms (DSA) problems.
 
 ---
 
